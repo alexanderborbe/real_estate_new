@@ -7,5 +7,5 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
-  base:"/estate-new-site",
+  base:"/real_estate_new",
 })
